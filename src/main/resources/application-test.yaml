@@ -1,0 +1,10 @@
+person:
+  name: wpz
+  age: 24
+  list:
+    - l1
+    - l2
+    - l3
+  Dog:
+    name: 旺财
+    age: 11
